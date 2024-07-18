@@ -1,1 +1,2 @@
-# Using-Array-list-in-Java-
+Entering Strings , using ArrayList the program will list all the Strings entered 
+
